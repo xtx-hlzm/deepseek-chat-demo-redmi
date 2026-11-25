@@ -20,7 +20,7 @@
 | 文件 | 说明 |
 | --- | --- |
 | [`apk/DeepSeek-Chat-Demo-1.0.8-third-party-rewrite.apk`](apk/DeepSeek-Chat-Demo-1.0.8-third-party-rewrite.apk) | 当前版本安装包 |
-| [Releases](../../releases) | 同一安装包的发布页下载入口 |
+| [Releases](https://github.com/xtx-hlzm/deepseek-chat-demo-redmi/releases) | 同一安装包的发布页下载入口（推荐） |
 
 SHA-256（APK）：
 
